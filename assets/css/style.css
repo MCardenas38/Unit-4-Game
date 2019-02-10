@@ -1,0 +1,20 @@
+body{
+    background-image: url("../images/cavemoving.gif");
+}
+
+header{
+    /* background-color: #f53232; */
+    color: #d89cd0;
+    text-align: center;
+}
+
+#instr{
+    background-color: rgba(255, 228, 196, 0.7);
+    color: blueviolet;
+    text-align: center;
+    padding: 3px 0px 3px 0px;
+}
+
+.imgspot{
+    text-align: center;
+}
